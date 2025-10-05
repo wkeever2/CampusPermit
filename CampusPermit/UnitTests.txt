@@ -1,0 +1,7 @@
+Test #0. Expected: 270.00 Recieved: 270.00 Expected: 283.50 Recieved: 283.50 Test Passed!
+Test #1. Expected: 61.58 Recieved: 61.58 Expected: 64.66 Recieved: 64.66 Test Passed!
+Test #2. Expected: 340.20 Recieved: 340.20 Expected: 357.21 Recieved: 357.21 Test Passed!
+Test #3. Expected: 569.25 Recieved: 569.25 Expected: 597.71 Recieved: 597.71 Test Passed!
+Test #4. Expected: 240.97 Recieved: 240.97 Expected: 253.02 Recieved: 253.02 Test Passed!
+
+Results: Passed 5 of 5
